@@ -1,3 +1,8 @@
+
+//codeforce problem No:231A
+//problem Name:Team
+
+
 #include<iostream>
 using namespace std;
 int main()
