@@ -7,7 +7,7 @@
 using namespace std;
 int main()
 {
-  int M,N,bord,i;
+  int M,N,bord;
   cin>>M>>N;
   bord=(M*N)/2;
   cout<<bord<<endl;
