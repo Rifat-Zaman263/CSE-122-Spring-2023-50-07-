@@ -1,3 +1,8 @@
+
+//codeforces poblem Number: 263A
+//Problem Name:  Beautiful Matrix
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
