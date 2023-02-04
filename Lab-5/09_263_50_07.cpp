@@ -1,6 +1,6 @@
 
-//Experiment Number:Codeforces 339A.
-//Experiment name:Helpful Maths
+//Problem Number:Codeforces 339A.
+//Problem Name:Helpful Maths
 
 
 #include<iostream>
