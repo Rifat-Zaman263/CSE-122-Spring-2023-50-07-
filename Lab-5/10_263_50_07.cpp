@@ -1,3 +1,7 @@
+
+//Problem Number: Codeforces 281A
+//problem Name: Word Capitalization
+
 #include<iostream>
 #include<string>
 using namespace std;
