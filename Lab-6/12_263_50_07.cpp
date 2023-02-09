@@ -1,3 +1,8 @@
+//Problem Number: Codeforces 236A
+//problem Name: Boy or Girl
+
+
+
 #include<iostream>
 #include<string>
 #include<algorithm>
