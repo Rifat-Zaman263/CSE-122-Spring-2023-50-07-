@@ -1,3 +1,8 @@
+//Problem Number: Codeforces 118A
+//problem Name: String Task
+
+
+
 #include<iostream>
 #include<string>
 using namespace std;
